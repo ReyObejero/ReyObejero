@@ -1,5 +1,4 @@
-
-## My Skill Set  
+## My skill set
 
 
 
