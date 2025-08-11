@@ -20,14 +20,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> <img src="https://img.shields.io/badge/Go-FFA500?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" /> 
 
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> 
-
-### 📱 Mobile
-
-<img src="https://img.shields.io/badge/Kotlin-3CB371?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3CB371?style=for-the-badge&logo=android&logoColor=white" /> 
-
 ## 🌐 Socials
 
 <div align="center">
